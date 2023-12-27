@@ -1,0 +1,32 @@
+// JSON object exemple
+{
+    "student": {
+        "firstname": "Eric",
+        "lastname": "Cartman",
+        "age": 10,
+        "psychopath": true,
+        "emergencyCall": {
+            "firstname": "Liane",
+            "lastname": "Cartman",
+            "number": 5556754
+        },
+        "hobbies": [
+            "World of Warcraft",
+            "Tacos",
+            "Drink tears"
+        ],
+        "friends": null
+    }
+}
+
+// JSON object
+{
+    key1: value1,
+    key2: value2
+}
+
+// Array JSON
+key1: [
+    value1,
+    value2
+]
